@@ -1,3 +1,9 @@
+**Implementation of BEST-RQ with feature-level cluster specific codebooks:**
+[Recipe](https://github.com/iljab/best-rq-mcb/tree/main/recipes/BEST-RQ)
+
+---
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/speechbrain/speechbrain/develop/docs/images/speechbrain-logo.svg" alt="SpeechBrain Logo"/>
 </p>
